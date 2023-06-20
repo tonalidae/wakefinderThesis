@@ -1,0 +1,36 @@
+# Core LaTeX auxiliary files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.lb
+
+# Bibliography auxiliary files (BibTeX, BibLaTeX, Biber)
+*.bbl
+*.bcf
+*.blg
+*.run.xml
+
+# Indexing auxiliary files
+*.idx
+*.ilg
+*.ind
+
+# Glossary auxiliary files
+*.glo
+*.glx
+*.gxg
+*.gxs
+
+# Compiled PDF output
+*.pdf
+
+# Auto-generated folders (e.g., by some LaTeX editors)
+auto/
